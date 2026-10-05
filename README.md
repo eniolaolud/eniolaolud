@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1 align="center">hi, i'm eniola ♡</h1>
+
+<p align="center">
+  computer science @ grambling state university ✦ software engineering
+</p>
+<h2>about me ♡</h2>
+
+- 💻 Software Engineering Intern @ Solera, Summer 2026
+- 🌱 currently building **NovaTrack**, a habit & productivity app
+- 🧠 currently sharpening my Data Structures & Algorithms skills
+- 🎀 I love turning everyday problems into things I can build
 
 <!--
 **eniolaolud/eniolaolud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
