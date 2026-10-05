@@ -1,3 +1,4 @@
+<img width="2172" height="724" alt="797D8104-C73F-413D-A619-9C4BBFF7D9ED" src="https://github.com/user-attachments/assets/a54e6844-75ce-4897-9145-6096a15224c1" />
 <h1 align="center">hi, i'm eniola ♡</h1>
 
 <p align="center">
